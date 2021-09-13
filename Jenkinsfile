@@ -1,3 +1,3 @@
 node ('my-ubuntu') {
- git 'https://github.com/saoodbinshafique/myfirstrepo.git/'
+ sh 'ping -c 4 10.5.214.1'
 }
