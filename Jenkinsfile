@@ -1,3 +1,3 @@
 node {
- git 'https://github.com/saoodbinshafique/myfirstrepo.git'
+ git 'https://github.com/saoodbinshafique/myfirstrepo.git/'
 }
