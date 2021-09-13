@@ -1,3 +1,3 @@
 node {
- bat 'git https://github.com/saoodbinshafique/myfirstrepo.git' 
+ bat 'git clone https://github.com/saoodbinshafique/myfirstrepo.git' 
 }
