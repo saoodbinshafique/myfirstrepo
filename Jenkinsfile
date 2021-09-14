@@ -5,4 +5,5 @@ node ('my-ubuntu') {
  sh 'pwd'
  sh 'cd myfirstrepo'
  sh 'pwd'
+ echo '$BUILD_NUMBER'
 }
