@@ -1,3 +1,3 @@
 node {
- bat 'echo "good man ki laltain"' 
+ sh 'echo "good man ki laltain"' 
 }
