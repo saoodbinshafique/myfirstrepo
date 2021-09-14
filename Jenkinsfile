@@ -3,4 +3,6 @@ node ('my-ubuntu') {
  sh 'rm -rf myfirstrepo'
  sh 'git clone https://github.com/saoodbinshafique/myfirstrepo.git'
  sh 'pwd'
+ sh 'cd myfirstrepo'
+ sh 'pwd'
 }
